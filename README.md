@@ -16,6 +16,7 @@ Running the client:
     
     
 This file does the following:
+
 	1. makes a directory 'bin' in the current directory.
 	2. compiles the code with the required libraries in classpath
 	3. runs the TicketViewClient.
